@@ -1,5 +1,5 @@
 /*!
- * jQuery Photostack Plugin
+ * jQuery Placeholder Plugin
  * https://github.com/tjgupta/jQuery-Placeholder
  *
  * Copyright 2014, Tim Gupta
